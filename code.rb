@@ -6,3 +6,5 @@ i = 0
 if i > 5
     puts "hello"
 end
+
+puts "I've added some text"
